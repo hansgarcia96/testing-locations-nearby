@@ -1,0 +1,16 @@
+[ 
+    {
+        "id": 1,
+        "title": "dark knight",
+        "content": "why so serious?",
+        "date": "12-04-2017",
+        "slug": "bruce-wayne"
+    },
+    {
+        "id": 2,
+        "title": "tesla",
+        "content": "ev",
+        "date": "1-28-2018",
+        "slug": "tesla"
+    }
+]
